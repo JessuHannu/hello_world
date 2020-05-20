@@ -1,0 +1,6 @@
+main()
+{
+int c,a,b;
+c=a+b;
+printf("%d",c);
+}

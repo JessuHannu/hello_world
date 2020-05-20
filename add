@@ -1,6 +1,8 @@
+#include<stdio.h>
 main()
 {
-int c,a,b;
-c=a+b;
+int c,a,b,d;
+c=a+b+d;
 printf("%d",c);
+getch();
 }

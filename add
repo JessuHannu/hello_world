@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-int c,a,b,d;//sum of 3
+int c,a,b,d;//sum of 3 no.s
 c=a+b+d;
 printf("%d",c);
 getch();
